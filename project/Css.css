@@ -1,0 +1,46 @@
+h1{
+    color: rgb(8, 0, 255);
+    font-size: 36px;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+input{
+    font-size: larger;
+}
+li{
+    display: inline;
+    margin: 10px;
+    font-size: 30px;
+
+    
+}
+li>a{
+    color: rgb(19, 19, 120);
+   text-decoration: none;
+   
+}
+li>a:hover{
+    color: brown;
+}
+.nav{
+    display: inline-block;
+    position: relative;
+    left: 550px;
+}
+   
+
+.nav1{
+    display: inline-block;
+    position: relative;
+   left: 300px;
+   top: -20px;
+  
+   
+}
+.con{
+    display: block;
+    margin: 50px;
+}
